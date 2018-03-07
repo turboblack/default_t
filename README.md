@@ -9,8 +9,6 @@ http://torba.tk/default_t/ - DEMO
 is based on a default template, added some changes, logo, background, button up, add js animation.
 social icons you can add by inserting links into any page on your site, just add:
 ```
-code block
-```
 <center>
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
@@ -20,8 +18,7 @@ code block
 <a href="#" class="fa fa-skype"></a>
 </center>
 ```
-code block
-```
+
 
 I will be glad if you come to my site and download also other free scripts, plans, templates, and additions to this wonderful engine  
 
