@@ -64,14 +64,7 @@ $('#scroller').click(function () {$('body,html').animate({scrollTop: 0}, 400); r
 				<div class="col-lg-12 text-center padding40">
 					<?=wCMS::block('subside')?>
 <br>
-<center>
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-youtube"></a>
-<a href="#" class="fa fa-instagram"></a>
-<a href="#" class="fa fa-vk"></a>
-<a href="#" class="fa fa-skype"></a>
-</center>
+
 
 				</div>
 			</div>
