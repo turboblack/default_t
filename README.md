@@ -19,6 +19,7 @@ social icons you can add by inserting links into any page on your site, just add
 </center>
 ```
 
+Where instead of sharp icon do not forget to insert links to your pages in social networks :-)
 
 I will be glad if you come to my site and download also other free scripts, plans, templates, and additions to this wonderful engine  
 
